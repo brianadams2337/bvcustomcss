@@ -8,5 +8,3 @@ body .bv-cleanslate .bv-text-link, .bv-cleanslate .bv-text-link:visited {text-tr
 /* inline ratings */
 body .bv-cleanslate .bv-inline-rating-container .bv-stars-container .bv-rating-ratio-number {padding-top: 4px !important;}
 body .bv-cleanslate .bv-stars-container dd {padding-top: 4px !important;}
-
-div {background: red !important;}
