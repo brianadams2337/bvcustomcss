@@ -3,7 +3,6 @@
 /* primary summary */
 body .bv-cleanslate .bv-summary-bar .bv-rating-ratio-number {padding-top: 4px !important;}
 body .bv-cleanslate .bv-summary-bar .bv-rating-ratio-count {padding-top: 4px !important;}
-body .bv-cleanslate .bv-text-link, .bv-cleanslate .bv-text-link:visited {text-transform: lowercase !important;}
 
 /* inline ratings */
 body .bv-cleanslate .bv-inline-rating-container .bv-stars-container .bv-rating-ratio-number {padding-top: 4px !important;}
